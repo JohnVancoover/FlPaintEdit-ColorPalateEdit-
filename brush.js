@@ -5,7 +5,7 @@ var Brush = (function () {
 
     var SPLATS_PER_SEGMENT = 8;
 
-    var VERTICES_PER_BRISTLE = 10;
+    var VERTICES_PER_BRISTLE = 45;
     var BRISTLE_LENGTH = 4.5; //relative to a scale of 1
     var BRISTLE_JITTER = 0.5;
 
